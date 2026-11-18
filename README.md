@@ -1,7 +1,7 @@
 # Shape by Shape Solver
 
 <p align="center">
-<img src="game.png" width=20%>
+<img src="shape-by-shape-box.png" width=20%>
 </p>
 
 A static browser-based solver for [ThinkFun’s](https://www.thinkfun.com/) Shape by Shape spatial puzzle. Draw the red and yellow shapes from a puzzle, solve both layers, or generate a randomized challenge with a verified solution that stays hidden until revealed.
@@ -44,6 +44,7 @@ They cover solving, randomized puzzle generation, and fast rejection of impossib
 ## Project files
 
 - `index.html` — page structure and project introduction
+- `shape-by-shape-box.png` — ThinkFun game box image used in the introduction
 - `styles.css` — responsive interface
 - `app.js` — canvas rendering and interaction
 - `solver.js` — puzzle rules, solver, and generator
