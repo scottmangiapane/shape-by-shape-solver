@@ -6,8 +6,7 @@
 
 A static browser-based solver for [ThinkFun’s](https://www.thinkfun.com/) Shape by Shape spatial puzzle. Draw the red and yellow shapes from a puzzle, solve both layers, or generate a randomized challenge with a verified solution that stays hidden until revealed.
 
-**Play online:** https://scottmangiapane.github.io/shape-by-shape-solver/  
-**Source code:** https://github.com/scottmangiapane/shape-by-shape-solver
+**Try it online:** https://scottmangiapane.github.io/shape-by-shape-solver/
 
 ## Screenshot
 
